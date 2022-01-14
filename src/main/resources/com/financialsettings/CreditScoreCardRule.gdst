@@ -93,7 +93,7 @@
   <actionCols>
     <set-field-col52>
       <typedDefaultValue>
-        <valueString></valueString>
+        <valueString>0</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
