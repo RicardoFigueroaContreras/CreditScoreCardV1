@@ -2,15 +2,15 @@
   <tableName>CreditScoreCardRule</tableName>
   <rowNumberCol>
     <hideColumn>false</hideColumn>
-    <width>-1</width>
+    <width>50</width>
   </rowNumberCol>
   <descriptionCol>
     <hideColumn>false</hideColumn>
-    <width>-1</width>
+    <width>150</width>
   </descriptionCol>
   <ruleNameColumn>
     <hideColumn>true</hideColumn>
-    <width>-1</width>
+    <width>150</width>
   </ruleNameColumn>
   <metadataCols/>
   <attributeCols/>
@@ -27,7 +27,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>144</width>
           <header>VARIABLE NAME</header>
           <constraintValueType>1</constraintValueType>
           <factField>variableName</factField>
@@ -43,7 +43,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>167</width>
           <header>SOURCE NAME</header>
           <constraintValueType>1</constraintValueType>
           <factField>sourceName</factField>
@@ -59,7 +59,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>100</width>
           <header>VALUE MIN</header>
           <constraintValueType>1</constraintValueType>
           <factField>value</factField>
@@ -75,7 +75,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>-1</width>
+          <width>299</width>
           <header>VALUE MAX</header>
           <constraintValueType>1</constraintValueType>
           <factField>value</factField>
@@ -98,7 +98,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>-1</width>
+      <width>100</width>
       <header>SCORE</header>
       <boundName>csci</boundName>
       <factField>score</factField>
