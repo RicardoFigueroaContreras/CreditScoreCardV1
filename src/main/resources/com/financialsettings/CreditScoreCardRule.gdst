@@ -27,7 +27,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>242</width>
           <header>VARIABLE NAME</header>
           <constraintValueType>1</constraintValueType>
           <factField>variableName</factField>
@@ -43,7 +43,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>223</width>
           <header>SOURCE NAME</header>
           <constraintValueType>1</constraintValueType>
           <factField>sourceName</factField>
@@ -59,7 +59,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>130</width>
           <header>VALUE MIN</header>
           <constraintValueType>1</constraintValueType>
           <factField>value</factField>
@@ -98,7 +98,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>100</width>
+      <width>137</width>
       <header>SCORE</header>
       <boundName>csci</boundName>
       <factField>score</factField>
