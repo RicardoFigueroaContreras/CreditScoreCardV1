@@ -103,7 +103,7 @@
       <boundName>csci</boundName>
       <factField>score</factField>
       <type>Integer</type>
-      <valueList>0</valueList>
+      <valueList>0,5,10,15,20</valueList>
       <update>true</update>
     </set-field-col52>
   </actionCols>
