@@ -1217,5 +1217,48 @@
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
+    <list>
+      <value>
+        <valueNumeric class="int">26</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString></valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString></valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>PREMIER_V1_1_BCC7120</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>EXPERIAN</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>0</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>106</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>33</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+    </list>
   </data>
 </decision-table52>
