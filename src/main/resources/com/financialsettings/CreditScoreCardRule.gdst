@@ -93,7 +93,7 @@
   <actionCols>
     <set-field-col52>
       <typedDefaultValue>
-        <valueString>0</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
@@ -103,7 +103,7 @@
       <boundName>csci</boundName>
       <factField>score</factField>
       <type>Integer</type>
-      <valueList>0</valueList>
+      <valueList>0,1,5,10,15,20,40,60,70,80,21,30,36,19,23,32,33,28,11,18,26,38</valueList>
       <update>true</update>
     </set-field-col52>
   </actionCols>
