@@ -6,12 +6,55 @@ package com.financialsettings;
 
 public class CreditScoreCardInquiry implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public CreditScoreCardInquiry() {
-    }
+	private java.lang.String variableName;
+	private java.lang.String sourceName;
+	private java.lang.Integer value;
+	private java.lang.Integer score;
 
+	public CreditScoreCardInquiry() {
+	}
 
+	public java.lang.String getVariableName() {
+		return this.variableName;
+	}
 
+	public void setVariableName(java.lang.String variableName) {
+		this.variableName = variableName;
+	}
+
+	public java.lang.String getSourceName() {
+		return this.sourceName;
+	}
+
+	public void setSourceName(java.lang.String sourceName) {
+		this.sourceName = sourceName;
+	}
+
+	public java.lang.Integer getValue() {
+		return this.value;
+	}
+
+	public void setValue(java.lang.Integer value) {
+		this.value = value;
+	}
+
+	public java.lang.Integer getScore() {
+		return this.score;
+	}
+
+	public void setScore(java.lang.Integer score) {
+		this.score = score;
+	}
+
+	public CreditScoreCardInquiry(java.lang.String variableName,
+			java.lang.String sourceName, java.lang.Integer value,
+			java.lang.Integer score) {
+		this.variableName = variableName;
+		this.sourceName = sourceName;
+		this.value = value;
+		this.score = score;
+	}
 
 }
