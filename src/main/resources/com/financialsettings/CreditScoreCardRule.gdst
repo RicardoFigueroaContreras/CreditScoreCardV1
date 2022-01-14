@@ -49,7 +49,7 @@
           <factField>sourceName</factField>
           <fieldType>String</fieldType>
           <operator>==</operator>
-          <valueList>APPLICANT</valueList>
+          <valueList>APPLICANT,EXPERIAN,LEXIS_NEXIS</valueList>
           <parameters/>
         </condition-column52>
         <condition-column52>
