@@ -33,7 +33,7 @@
           <factField>variableName</factField>
           <fieldType>String</fieldType>
           <operator>==</operator>
-          <valueList>AGE</valueList>
+          <valueList>&quot;MONTHLY_INCOME&quot;,&quot;AUTORISKSCORE&quot;,&quot;NEVER_PAY_RISK_SCORE&quot;,&quot;PREMIER_V1_1_BCC7120&quot;,&quot;SPOTLIGHT_COL5069&quot;,&quot;RV4_G&quot;,&quot;INPUT_ADDR_MORTG_AGE_TYPE&quot;</valueList>
           <parameters/>
         </condition-column52>
         <condition-column52>
@@ -160,7 +160,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>AGE</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
