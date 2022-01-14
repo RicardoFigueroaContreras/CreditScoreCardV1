@@ -223,7 +223,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>5</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -266,7 +266,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>10</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -309,7 +309,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>15</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -352,7 +352,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>20</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -395,7 +395,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>15</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -438,7 +438,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>10</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -481,7 +481,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>0</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
